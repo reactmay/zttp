@@ -61,7 +61,7 @@ Additionally, code must also follow these constraints:
 
 ## Pull Requests
 
-We accept contributions via Pull Requests on [GitHub](https://github.com/kitetail/zttp).
+We accept contributions via Pull Requests on [GitHub](https://github.com/reactmay/zttp).
 
 - **Add tests!** - Your patch won't be accepted if it doesn't have tests.
 - **One pull request per feature** - If you want to do more than one thing, send multiple pull requests.

@@ -4,7 +4,7 @@ Zttp is a simple Guzzle wrapper designed to provide a really pleasant developmen
 
 If you need more functionality, just use [Guzzle](https://github.com/guzzle/guzzle) :)
 
-Real documentation is in the works, but for now [read the tests](https://github.com/kitetail/zttp/blob/master/tests/ZttpTest.php).
+Real documentation is in the works, but for now [read the tests](https://github.com/reactmay/zttp/blob/master/tests/ZttpTest.php).
 
 ```php
 $response = Zttp::withHeaders(['Fancy' => 'Pants'])->post($url, [
@@ -26,4 +26,4 @@ $response->json();
 
 ## Installation
 
-`composer require kitetail/zttp`
+`composer require reactmay/zttp`
